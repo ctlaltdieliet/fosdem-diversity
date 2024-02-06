@@ -6,6 +6,7 @@
 FOSDEM is great! FOSDEM is unique. But FOSDEM can be better.
 FOSDEM is lacking diversity. Some dev rooms are more diverse (like the community dev room, of course!)
 We have seen an increasement through the years but we can do better, right?
+I understand that the organisers maybe don't have the budget/time/bandwith for this. No problem!
 
 
 ### What can we do about this?
